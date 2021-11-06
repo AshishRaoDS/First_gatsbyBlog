@@ -6,7 +6,7 @@ const AboutPage=() =>(
         <Layout>
         <div>
              <h1>About us</h1>
-                <p>We give you the best experience a website could possibly give.</p>
+                <p>An experience filled experience.</p>
                            </div>
             </Layout>   
   )
